@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Configuration;
 using Microsoft.EntityFrameworkCore;
+using EmTechServer.Data;
 
 namespace EmTechServer
 {
@@ -23,6 +24,7 @@ namespace EmTechServer
         }
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<EmTechDbContext>(option => option.UseMySql(Configuration.GetConnectionString("LocalMySqlConnection")));
             services.AddMvc();
         }
 
