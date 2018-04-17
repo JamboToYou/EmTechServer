@@ -1,0 +1,10 @@
+/home/jambo/edu/prog/emtech/EmTechServer/bin/Debug/netcoreapp2.0/EmTechServer.deps.json
+/home/jambo/edu/prog/emtech/EmTechServer/bin/Debug/netcoreapp2.0/EmTechServer.runtimeconfig.json
+/home/jambo/edu/prog/emtech/EmTechServer/bin/Debug/netcoreapp2.0/EmTechServer.runtimeconfig.dev.json
+/home/jambo/edu/prog/emtech/EmTechServer/bin/Debug/netcoreapp2.0/EmTechServer.dll
+/home/jambo/edu/prog/emtech/EmTechServer/bin/Debug/netcoreapp2.0/EmTechServer.pdb
+/home/jambo/edu/prog/emtech/EmTechServer/obj/Debug/netcoreapp2.0/EmTechServer.csproj.CoreCompileInputs.cache
+/home/jambo/edu/prog/emtech/EmTechServer/obj/Debug/netcoreapp2.0/EmTechServer.AssemblyInfoInputs.cache
+/home/jambo/edu/prog/emtech/EmTechServer/obj/Debug/netcoreapp2.0/EmTechServer.AssemblyInfo.cs
+/home/jambo/edu/prog/emtech/EmTechServer/obj/Debug/netcoreapp2.0/EmTechServer.dll
+/home/jambo/edu/prog/emtech/EmTechServer/obj/Debug/netcoreapp2.0/EmTechServer.pdb
