@@ -3,9 +3,9 @@
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
-    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">/home/jambo/edu/prog/emtech/EmTechServer/obj/project.assets.json</ProjectAssetsFile>
-    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/home/jambo/.nuget/packages/</NuGetPackageRoot>
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/home/jambo/.nuget/packages/;/usr/share/dotnet/sdk/NuGetFallbackFolder</NuGetPackageFolders>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">/home/artemon/workspace/web/EmTechServer/obj/project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/home/artemon/.nuget/packages/</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/home/artemon/.nuget/packages/;/usr/share/dotnet/sdk/NuGetFallbackFolder</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">4.5.0</NuGetToolVersion>
   </PropertyGroup>

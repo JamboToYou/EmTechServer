@@ -12785,23 +12785,23 @@
     ]
   },
   "packageFolders": {
-    "/home/jambo/.nuget/packages/": {},
+    "/home/artemon/.nuget/packages/": {},
     "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jambo/edu/prog/emtech/EmTechServer/EmTechServer.csproj",
+      "projectUniqueName": "/home/artemon/workspace/web/EmTechServer/EmTechServer.csproj",
       "projectName": "EmTechServer",
-      "projectPath": "/home/jambo/edu/prog/emtech/EmTechServer/EmTechServer.csproj",
-      "packagesPath": "/home/jambo/.nuget/packages/",
-      "outputPath": "/home/jambo/edu/prog/emtech/EmTechServer/obj/",
+      "projectPath": "/home/artemon/workspace/web/EmTechServer/EmTechServer.csproj",
+      "packagesPath": "/home/artemon/.nuget/packages/",
+      "outputPath": "/home/artemon/workspace/web/EmTechServer/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/jambo/.nuget/NuGet/NuGet.Config"
+        "/home/artemon/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
